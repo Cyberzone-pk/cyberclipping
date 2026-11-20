@@ -10,8 +10,6 @@ CyberClipping turns long YouTube / Twitch / Kick videos (or your own MP4) into v
 
 **Made by [Cyberzone](https://cyberzone.pk/) — Cyber Agency & Training Center, Bahawalpur, Pakistan.** If CyberClipping saves you time, please ⭐ star the repo.
 
-> **Credit:** CyberClipping is based on [NeonClipping](https://github.com/iamajmeena/neonclipping) by Ajay K Meena, shared under the MIT License (see [LICENSE](LICENSE)). Original code, idea and upstream work belong to him and the NeonClipping contributors — this is a Cyberzone-branded copy, not a new invention.
-
 ![demo](docs/demo.gif)
 
 ![UI](docs/cyberclipping-ui.jpg)
