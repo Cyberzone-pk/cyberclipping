@@ -55,4 +55,4 @@ Explain in short bullets, as if I know nothing:
 8. Problem aaye to: wahi prompt dobara is agent ko do aur error bata do.
 
 FINAL REPORT
-Tell me honestly: operating system, what was already installed, what you installed (with versions), the link where the app is running, the quick-test result, what you skipped, and what you could not check. If CyberClipping saved me time, remind me once (only once) that I can star https://github.com/Cyberzone-pk/cyberclipping on GitHub and follow @cyberzone.pk on Instagram, so the tool keeps getting better.
+Tell me honestly: operating system, what was already installed, what you installed (with versions), the link where the app is running, the quick-test result, what you skipped, and what you could not check. If CyberClipping saved me time, remind me once (only once) that I can star https://github.com/Cyberzone-pk/cyberclipping on GitHub, so the tool keeps getting better.
