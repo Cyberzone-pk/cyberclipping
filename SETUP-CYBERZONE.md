@@ -3,12 +3,6 @@
 Link paste karo, captioned 9:16 clips lo — about 2 minutes mein. Free, local, open-source.
 YouTube / Twitch / Kick link ya apni MP4 se vertical clips (Reels / Shorts / TikTok).
 
-> **Credit:** Ye tool [NeonClipping](https://github.com/iamajmeena/neonclipping)
-> by Ajay K Meena par based hai, MIT License ke under.
-> Original code aur idea un ka hai — ye sirf Cyberzone branding
-> wala copy hai, naya invention nahi. LICENSE file mein original
-> copyright waise ka waisa rakha gaya hai.
-
 ## Repo (jab live ho)
 
 - **Cyberzone copy:** https://github.com/Cyberzone-pk/cyberclipping
@@ -52,7 +46,7 @@ Requirements: Python 3.10+, FFmpeg. Optional: Ollama + `ollama pull llama3.2:3b`
 
 ## Branding is mein kya change hai
 
-- Naam: NeonClipping → **CyberClipping**
+- Naam: **CyberClipping** (Cyberzone branding)
 - Repo: `iamajmeena/neonclipping` → `Cyberzone-pk/cyberclipping`
 - Theme: Cyberzone navy (`#060d18`) + cyan-blue (`#00b4ff`)
 - Sidebar/footer: **BY CYBERZONE • CYBERZONE.PK**
